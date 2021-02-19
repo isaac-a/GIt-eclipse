@@ -7,6 +7,10 @@ public class EjemploGit {
 		
 		System.out.println("se han hecho cambios en el archivo");
 		
+		System.out.println("agregando nueva linea");
+		
+		System.out.println("agregando otra linea");
+		
 	}
 
 }
