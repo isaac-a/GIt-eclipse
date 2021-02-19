@@ -5,6 +5,8 @@ public class EjemploGit {
 		
 		System.out.println("Hola mundo");
 		
+		System.out.println("se han hecho cambios en el archivo");
+		
 	}
 
 }
